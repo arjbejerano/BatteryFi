@@ -84,5 +84,3 @@ BatteryFi integrates with grid data (when available) to:
 
 ---
 
-## 🧩 System Architecture
-
